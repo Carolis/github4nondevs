@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/header-4noobs.svg">
+  </a>
+</p>
+
+<p align="center">
+  <h2 align="center">Github4nondevs</h2>
+  
+  <p align="center">
+    <a href="https://github.com/Rhedrum/github4nondevs/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Rhedrum/github4nondevs/issues">Request Feature</a>
+  </p>
+</p>
+
 # Introdução
 
 Neste tutorial será ensinado o básico de como contribuir em projetos usando apenas a interface do Github pelo navegador.
@@ -43,7 +59,11 @@ Basta salvar e está pronto. Agora vamos falar de markdown.
 
 Markdown é uma forma bem simples de formatar textos e que se tornou bastante popular por esse motivo. Aqui no Github ele é especialmente útil (esse texto foi feito usando markdown, por exemplo.)
 
-[Aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
+[Aqui](https://github.com/jpaulohe4rt/markdown4noobs/blob/master/src/Guia/Cheatsheet.md) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
+
+<p align="center"">
+    <img src="./.github/images/10.png" alt="Markdown para noobs">
+<p/>
 
 Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **.MD**
 
@@ -89,3 +109,28 @@ Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma p
 
 
 Isso é tudo por hoje ;) Quaisquer dúvidas sinta-se livre para abrir uma Issue nesse repositório.
+
+## Como Contribuir através da CLI
+
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
+4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+5. Abra um Pull Request
+
+## Autores
+
+- **Carolina Ale** - _Developer & Member of He4rt Developers_  - [Twitter](https://twitter.com/caroliscaroles)
+
+<p align="center">Made with 💜</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/footer-4noobs.svg" width="380">
+  </a>
+</p>
