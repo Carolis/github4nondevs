@@ -6,6 +6,6 @@
 
 ![Criando um Repositório](./.github/images/1B.png)
 
-    Mas o que é um repositório? É tipo uma pasta, resumidamente. A única diferença é que todos arquivos são versionados e podemos "voltar no passado" caso alguma coisa dê errado.
+`Mas o que é um repositório? É tipo uma pasta, resumidamente. A única diferença é que todos arquivos são versionados e podemos "voltar no passado" caso alguma coisa dê errado.`
 
 3) Após criado o repositório
