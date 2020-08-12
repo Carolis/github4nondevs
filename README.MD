@@ -67,3 +67,23 @@ Na nova aba, observe o símbolo de uma caneta logo no topo do arquivo, é onde v
 <p align="center"">
     <img src="./.github/images/6.png" alt="Botão de edição do arquivo">
 <p/
+
+
+Após feitas todas alterações desejadas, basta rolar até o final da página e confirmar a proposta das mudanças no arquivo. 
+
+<p align="center"">
+    <img src="./.github/images/7.png" alt="Botão de confirmar edição">
+<p/
+
+Na próxima página, um resumo de tudo que foi adicionado (em verde) ou removido (em vermelho) será exibido, confira se tudo está correto e peça a aprovação!
+
+<p align="center"">
+    <img src="./.github/images/8.png" alt="Resumo das alterações">
+<p/
+
+Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma pessoa que cuida do repositório aprová-las elas entrarão oficialmente no arquivo principal! 
+
+<p align="center"">
+    <img src="./.github/images/9.png" alt="Aba de pull requests">
+<p/
+
