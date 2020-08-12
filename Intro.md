@@ -1,5 +1,7 @@
 # Introdução
 
+Neste tutorial será ensinado o básico de como contribuir em projetos usando apenas a interface do Github pelo navegador.
+
 1) Primeiramente: você precisa [criar uma conta](https://github.com/) no Github.
 
 2) No primeiro cenário, vamos abordar a situação onde você quer começar o seu próprio projeto. Futuramente neste guia demonstraremos como contribuir em um projeto que não é seu.
