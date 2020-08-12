@@ -81,7 +81,7 @@ Na próxima página, um resumo de tudo que foi adicionado (em verde) ou removido
     <img src="./.github/images/8.png" alt="Resumo das alterações">
 <p/
 
-Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma pessoa que cuida do repositório aprová-las elas entrarão oficialmente no arquivo principal! 
+Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma pessoa que cuida do repositório aprová-las elas entrarão oficialmente no arquivo principal.
 
 <p align="center"">
     <img src="./.github/images/9.png" alt="Aba de pull requests">
