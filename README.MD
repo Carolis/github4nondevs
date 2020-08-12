@@ -1,7 +1,7 @@
 # Introdução
 
 Neste tutorial será ensinado o básico de como contribuir em projetos usando apenas a interface do Github pelo navegador.
-O tutorial é destinado a pessoas não desenvolvedoras ou qualquer um que não queira usar a interface de comandos para desfrutar o github.
+O tutorial é destinado a pessoas não desenvolvedoras ou qualquer um que não queira usar a interface de comandos para desfrutar do Github.
 
 Lembre-se que você precisa [criar uma conta](https://github.com/) no Github para os próximos passos.
 
@@ -41,7 +41,9 @@ Basta salvar e está pronto. Agora vamos falar de markdown.
 
 # Markdown
 
-Markdown é uma forma bem simples de formatar textos e que tem se popularizado bastante. Aqui no Github ele é especialmente útil (esse texto foi feito usando markdown, por exemplo.)
+Markdown é uma forma bem simples de formatar textos e que se tornou bastante popular por esse motivo. Aqui no Github ele é especialmente útil (esse texto foi feito usando markdown, por exemplo.)
+
+[Aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
 
 Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **.MD**
 
@@ -51,4 +53,6 @@ Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **
     <img src="./.github/images/4.gif" alt="Criando um novo arquivo">
 <p/>
 
-[Aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
+# Segunda Alternativa: Contribuindo com outros projetos.
+
+É de bom
