@@ -50,9 +50,20 @@ Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **
 `Exemplo: nomeDoArquivoMarkdown.MD`
 
 <p align="center"">
-    <img src="./.github/images/4.gif" alt="Criando um novo arquivo">
+    <img src="./.github/images/4.gif" alt="Diferença de um arquivo com e sem markdown">
 <p/>
 
 # Contribuindo com outros projetos.
 
-Ao encontrar um novo projeto do qual você queira contribuir é de bom grado que 
+Ao encontrar um novo projeto do qual você queira contribuir, basta navegar até o arquivo desejado e abrí-lo em uma nova aba.
+
+<p align="center"">
+    <img src="./.github/images/5.png" alt="Clique no arquivo desejado">
+<p/>
+
+Na nova aba, observe o símbolo de uma caneta logo no topo do arquivo, é onde você precisa clicar para abrir o **modo de edição**.
+
+
+<p align="center"">
+    <img src="./.github/images/6.png" alt="Botão de edição do arquivo">
+<p/
