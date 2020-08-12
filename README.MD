@@ -87,3 +87,5 @@ Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma p
     <img src="./.github/images/9.png" alt="Aba de pull requests">
 <p/
 
+
+Isso é tudo por hoje ;) Quaisquer dúvidas sinta-se livre para abrir uma Issue nesse repositório.
