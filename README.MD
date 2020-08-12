@@ -5,7 +5,7 @@ O tutorial é destinado a pessoas não desenvolvedoras ou qualquer um que não q
 
 Lembre-se que você precisa [criar uma conta](https://github.com/) no Github para os próximos passos.
 
-# Criando seu próprio projeto.
+# Criando seu próprio projeto
 
 1) No primeiro cenário, vamos abordar a situação onde você quer começar o seu próprio projeto. Futuramente neste guia também será demonstrado como contribuir em um projeto que não é de sua autoria.
    
@@ -53,7 +53,7 @@ Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **
     <img src="./.github/images/4.gif" alt="Diferença de um arquivo com e sem markdown">
 <p/>
 
-# Contribuindo com outros projetos.
+# Contribuindo com outros projetos
 
 Ao encontrar um novo projeto do qual você queira contribuir, basta navegar até o arquivo desejado e abrí-lo em uma nova aba.
 
