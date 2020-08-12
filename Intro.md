@@ -26,5 +26,17 @@ Lembre-se que você precisa [criar uma conta](https://github.com/) no Github par
 ```Caso você se pergunte "Mas o que é um repositório?": É tipo uma pasta, resumidamente. A única diferença é que existem técnicas para que todos arquivos sejam versionados e seja possível "voltar no passado" caso alguma coisa dê errado.```
 
 
-1) Após criado o repositório, é hora de começarmos a povoá-lo com arquivos.
+2) Após criado o repositório, é hora de começarmos a povoá-lo com arquivos.
 
+    Na raíz do projeto, crie uma imagem ou uma pasta, como preferir. Basta dar um nome ao arquivo e colocar sua extensão.
+
+   `Exemplo: nomeDoArquivo.txt`
+
+<p align="center"">
+    <img src="./.github/images/3.gif" alt="Criando um novo arquivo">
+<p/>
+
+Basta salvar e está pronto. Agora vamos falar de markdown.
+
+
+# Markdown
