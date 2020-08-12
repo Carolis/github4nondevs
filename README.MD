@@ -123,7 +123,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Carolina Ale** - _Developer & Member of He4rt Developers_  - [Twitter](https://twitter.com/caroliscaroles)
+- **Carolina Ale** - _Developer & Member of He4rt Developers_  - [Twitter](https://twitter.com/caroliscaroles) - [Github](https://github.com/Rhedrum)
 
 <p align="center">Made with 💜</p>
 
