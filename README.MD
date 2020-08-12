@@ -28,7 +28,7 @@ Lembre-se que você precisa [criar uma conta](https://github.com/) no Github par
 
 2) Após criado o repositório, é hora de começarmos a povoá-lo com arquivos.
 
-    Na raíz do projeto, crie uma imagem ou uma pasta, como preferir. Basta dar um nome ao arquivo e colocar sua extensão.
+    Na raíz do projeto, crie um arquivo único ou uma pasta, como preferir. Basta dar um nome ao arquivo e colocar sua extensão.
 
    `Exemplo: nomeDoArquivo.txt`
 
@@ -40,3 +40,15 @@ Basta salvar e está pronto. Agora vamos falar de markdown.
 
 
 # Markdown
+
+Markdown é uma forma bem simples de formatar textos e que tem se popularizado bastante. Aqui no Github ele é especialmente útil (esse texto foi feito usando markdown, por exemplo.)
+
+Para usufruir do markdown, basta que você nomeie seu arquivo com a extensão **.MD**
+
+`Exemplo: nomeDoArquivoMarkdown.MD`
+
+<p align="center"">
+    <img src="./.github/images/4.gif" alt="Criando um novo arquivo">
+<p/>
+
+[Aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
