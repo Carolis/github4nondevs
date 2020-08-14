@@ -59,7 +59,7 @@ Basta salvar e está pronto. Agora vamos falar de markdown.
 
 Markdown é uma forma bem simples de formatar textos e que se tornou bastante popular por esse motivo. Aqui no Github ele é especialmente útil (esse texto foi feito usando markdown, por exemplo.)
 
-[Aqui](https://github.com/jpaulohe4rt/markdown4noobs/blob/master/src/Guia/Cheatsheet.md) você pode encontrar um guia bem completo da sintaxe do markdown, possúi diferentes tamanhos de títulos, como inserir links, imagens e muito mais.
+[Aqui](https://github.com/jpaulohe4rt/markdown4noobs/blob/master/src/Guia/Cheatsheet.md) você pode encontrar um guia bem completo da sintaxe do markdown. Com ele é possível demarcar diferentes tamanhos de títulos, inserir links, imagens, montar tabelas e muito mais.
 
 <p align="center"">
     <img src="./.github/images/10.png" alt="Markdown para noobs">
@@ -110,7 +110,7 @@ Sua solicitação ficará em aberto na aba ilustrada abaixo e assim que alguma p
 
 Isso é tudo por hoje ;) Quaisquer dúvidas sinta-se livre para abrir uma Issue nesse repositório.
 
-## Como Contribuir através da CLI
+## Como Contribuir através da Interface de Comandos
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
